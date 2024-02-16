@@ -36,7 +36,7 @@ public class App
     	  System.out.println("Scripted Executing");
     	  
     	  //1. Open the browser and get to the url
-    	  driver.get("http://18.216.150.25:8081/addressbook-2.0/");
+    	  driver.get("http://3.91.152.114:8080/addressbook-2.0/");
     	 // driver.get("https://www.facebook.com/");
     	  //enable wait of 3 seconds 
     	  driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
